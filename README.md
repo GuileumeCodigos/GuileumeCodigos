@@ -40,21 +40,21 @@
 
 <br>
 
-## 🚀 Projeto em destaque
+##  Projeto em destaque
 
 <div align="center">
 
 <a href="https://github.com/SEU_USUARIO/radint-rush">
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000a078720e9ffba2c32370d69b&ts=495284&p=fs&cid=1&sig=fd1127ae8799d778b55a5ac274527f590cdbada4991b2a271c0c1faae0d98678&v=0" />
+<img src="https://i.im.ge/QMALTpG/pixil-frame-0_3_.png" alt="Pixil Frame 0" />
 </a>
 
-**🎮 Radint Rush** — meu projeto atual em desenvolvimento.
+** Radint Rush** — meu projeto atual em desenvolvimento.
 
 </div>
 
 <br>
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
 
